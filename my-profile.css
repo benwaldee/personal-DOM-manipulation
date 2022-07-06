@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(61, 61, 202);
+}
+
+ul {
+    border: 1px solid rgb(197, 197, 197);
+    width: fit-content;
+}
+
+.detail {
+    padding: 5px;
+    padding-right: 10px;
+}
+
+.detail:hover {
+    background-color: lightblue;
+}
